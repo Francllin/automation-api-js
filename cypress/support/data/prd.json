@@ -1,0 +1,15 @@
+{
+  "status_code": {
+    "bad_request": "400",
+    "not_found": "404",
+    "ok": "200",
+    "accepted": "202",
+    "created": "201",
+    "no_content": "204",
+    "partial_content": "206",
+    "bad_gateway": "502",
+    "forbidden": "403",
+    "unprocessable_entity": "422"
+  },
+  "id_get_invalido": 1109988
+}

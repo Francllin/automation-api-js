@@ -1,0 +1,14 @@
+{
+  "env": {
+    "allure": true,
+    "TAGS": "not @wip"
+  },
+  "TAGS": "not @wip",
+  "baseUrlLocal": "http://localhost:3000/",
+  "baseUrlHml": "https://jsonplaceholder.typicode.com/",
+  "baseUrlPrd": "https://jsonplaceholder.typicode.com/",
+  "video": false,
+  "responseTimeout": 60000,
+  "defaultCommandTimeout": 60000,
+  "screenshotOnRunFailure": false
+}
