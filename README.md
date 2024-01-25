@@ -36,6 +36,8 @@ docker run --rm --network host --entrypoint /bin/sh -it qa
 
 Para **executar os testes***
 
+testegit
+
 ```bash
 docker run --rm --network host -v ~/.Xauthority:/root/.Xauthority:ro -e DISPLAY --entrypoint /bin/sh -it qa -c 'npm run cypress:run'
 ```
