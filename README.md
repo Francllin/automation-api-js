@@ -2,7 +2,7 @@
 
 ## Project Setup LOCAL
 
-Entrar na pasta do projeto:
+Entrar na pasta do projeto: 
 
 ### Sem docker 
 
