@@ -11,7 +11,7 @@ Para **instalar as dependencias**
 obs: precisa ter o nodejs o npm instalado na sua maquina em qualquer versão
 
 ```bash
-npm install ou npm i
+npm install ou npm i 
 ```
 
 Para **rodar os testes**
