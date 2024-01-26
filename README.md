@@ -4,7 +4,7 @@
 
 Entrar na pasta do projeto:
 
-### Sem docker
+### Sem docker 
 
 Para **instalar as dependencias**
 
