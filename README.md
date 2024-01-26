@@ -3,7 +3,7 @@
 ## Project Setup LOCAL
 
 Entrar na pasta do projeto: 
-
+ 
 ### Sem docker 
 
 Para **instalar as dependencias**
