@@ -8,7 +8,7 @@ Entrar na pasta do projeto:
 
 Para **instalar as dependencias**
 
-obs: precisa ter o nodejs o npm instalado na sua maquina em qualquer versão
+obs: precisa ter o nodejs o npm instalado na sua maquina em qualquer versão 
 
 ```bash
 npm install ou npm i 
